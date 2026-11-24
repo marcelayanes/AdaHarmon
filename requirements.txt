@@ -1,0 +1,18 @@
+# AdaHarmon
+# Experiments: Python 3.10, PyTorch 2.10.0 (GPU NVIDIA L4)
+
+torch==2.10.0
+torchvision
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+seaborn
+torchinfo
+tqdm
+adabelief-pytorch
+lion-pytorch
+pynvml
+thop
+kaggle
